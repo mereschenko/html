@@ -86,4 +86,11 @@ body {
     text-decoration-color: red
 }
 
-
+.table1{
+    border: 1px solid #000;
+    width: 400px;
+    height: 200px
+}
+td{
+    border:1px solid red ;
+}
